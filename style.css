@@ -6,7 +6,7 @@
 }
 body{
     color: #ededed ;
-    background-color: #081b29;
+    background-color: #46185a;
 }
 header{
     position: fixed;
@@ -14,7 +14,7 @@ header{
     left: 0;
     width: 100%;
     display: flex;
-    background: #051129;
+    background: #081838;
     justify-content: space-between;
     align-items: center;
     padding: 20px 10%;
