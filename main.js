@@ -1,5 +1,6 @@
-var typed= new typed(".text" , {
-    string:["Web Developer","Frontend Developer","Content Creator"],
+
+var typed= new Typed(".text" , {
+    strings:["Web Developer","Frontend Developer","Content Creator"],
     typeSpeed:100,
     loop:true
 })
