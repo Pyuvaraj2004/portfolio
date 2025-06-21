@@ -8,6 +8,9 @@ body{
     color: #ededed ;
     background-color: #46185a;
 }
+#sset{
+    display:flex;
+}
 header{
     position: fixed;
     top: 0;
